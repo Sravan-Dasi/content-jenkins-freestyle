@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-My Rectangle Java code
+my Rectangle Java code
